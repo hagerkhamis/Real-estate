@@ -1,0 +1,1 @@
+[info] 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre (D:\Projects\Real estate\flutter_application_1\lib\features\settings\presentation\screens\settings_screen.dart:74:9)
